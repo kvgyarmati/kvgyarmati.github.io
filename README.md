@@ -10,6 +10,16 @@ This site is created to allow a personal showcase of what I am working on beyond
 
 Also will be a landing page to share my info and more. 
 
+---- 
+
 ## Contact me 
 
-[Twitter](https://twitter.com/kvgyarmati) 
+[Twitter](https://twitter.com/kvgyarmati)
+
+----
+
+## Blog 
+
+![[05_15_23.md]] 
+
+---- 
