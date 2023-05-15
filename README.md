@@ -12,4 +12,4 @@ Also will be a landing page to share my info and more.
 
 ## Contact me 
 
-[Twitter|https://twitter.com/kvgyarmati] 
+[Twitter](https://twitter.com/kvgyarmati) 
