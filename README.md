@@ -20,6 +20,6 @@ Also will be a landing page to share my info and more.
 
 ## Blog 
 
-![[05_15_23.md]] 
+[05_15_23](05_15_23.md) 
 
 ---- 
